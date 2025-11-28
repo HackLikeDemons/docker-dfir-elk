@@ -11,6 +11,11 @@ You can start your local local ELK stack, after adding the .env file with:
 docker compose up -d
 ```
 
+Check the status of your docker containers with:
+```BASH 
+docker ps
+```
+
 ## .env file
 
 Add a .env file to your directory and change the password
