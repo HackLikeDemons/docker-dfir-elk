@@ -2,7 +2,9 @@
 
 In your tools directory, clone this repo into docker-dfir-elk
 
+```BASH 
 git clone https://github.com/HackLikeDemons/docker-dfir-elk.git
+```
 
 You can start your local local ELK stack, after adding the .env file with:
 ```BASH 
