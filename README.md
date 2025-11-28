@@ -43,7 +43,7 @@ ES_PORT=9200
 KIBANA_PORT=5601
 
 # Increase or decrease based on the available host memory (in bytes)
-MEM_LIMIT=2147483648    # 2147483648 Byte = 2GB
+MEM_LIMIT=2147483648    # 2147483648 Byte = 2GB | 4294967296 = 4GB
 ```
 
 ## Importing CSV data
